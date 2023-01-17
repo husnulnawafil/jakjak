@@ -124,4 +124,21 @@ main .section-popular-content .section-popular-travel .card-travel .travel-butto
 main .section-popular-content .section-popular-travel .card-travel .travel-button .btn-travel-details:hover {
   background-color: #d58547;
   color: #fff;
+}
+main .section-networks {
+  background-color: #fff;
+  margin-top: -170px;
+  padding-top: 240px;
+  padding-bottom: 50px;
+}
+main .section-networks h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+main .section-networks img {
+  max-width: 100%;
+}
+main .section-testimonial-heading h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
 }/*# sourceMappingURL=main.css.map */
