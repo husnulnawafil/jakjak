@@ -134,11 +134,56 @@ main .section-networks {
 main .section-networks h2 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
+  font-size: 40px;
+}
+main .section-networks p {
+  font-size: 18px;
 }
 main .section-networks img {
   max-width: 100%;
 }
+main .section-testimonial-heading {
+  background: linear-gradient(#fff 0%, #f7f9ff 100%);
+  padding-top: 50px;
+  min-height: 506px;
+}
 main .section-testimonial-heading h2 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
+  font-size: 40px;
+}
+main .section-testimonial-heading p {
+  font-size: 18px;
+}
+main .section-testimonial-content {
+  margin-top: -300px;
+  padding-bottom: 50px;
+}
+main .section-testimonial-content .card-testimonial {
+  padding: 40px 20px 10px;
+  border-radius: 11px;
+  margin-bottom: 20px;
+}
+main .section-testimonial-content .card-testimonial img {
+  max-width: 30%;
+}
+main .section-testimonial-content .card-testimonial .testimonial-content {
+  min-height: 380px;
+}
+main .section-testimonial-content .card-testimonial h3 {
+  font-size: 22px;
+}
+main .section-testimonial-content .card-testimonial .testimonial {
+  font-weight: 200;
+  font-size: 26px;
+  color: #6e6e6e;
+}
+main .section-testimonial-content .card-testimonial .trip-to {
+  font-weight: normal;
+  font-size: 22px;
+  color: #6e6e6e;
+}
+main .section-testimonial-content .card-testimonial hr {
+  margin-left: -20px;
+  margin-right: -20px;
 }/*# sourceMappingURL=main.css.map */
