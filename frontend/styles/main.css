@@ -69,14 +69,14 @@ main .section-stats {
 main .section-stats .stats-detail {
   padding-top: 15px;
   background-color: #fff;
-  padding-left: 40px;
+  padding-left: 30px;
 }
 main .section-stats h2 {
-  font-size: 30px;
+  font-size: 2vw;
   margin-bottom: 0;
 }
 main .section-stats p {
-  font-size: 20px;
+  font-size: 2vw;
   font-weight: lighter;
 }
 main .section-popular {
